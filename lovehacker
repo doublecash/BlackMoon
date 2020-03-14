@@ -35,24 +35,24 @@ def restart_program():
 
 os.system("clear")
 
-print "%s ____ ___ %s" % (W, N)
+print "%s ♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡_ %s" % (W, N)
 
-print "%s / __// o.) %s.__ %s . . . %s" % (W, B, R, N)
+print "%s ◇◇◇◇◇◇◇◇◇ o.) %s♡♡♡♡♡ %s ●●●●●●● %s" % (W, B, R, N)
 
-print "%s / _/ / o \ %s[ __._._ . .[_) %s|_| _. _.;_/ %s" % (W, B, R, N)
+print "%s ♤♤♤♤♤♤♤♤♤♤o \ %s[ ●●●□●●●●.[_) %s■■■■■■♤■■■■ %s" % (W, B, R, N)
 
-print "%s /_/ /___,' %s[_./[ (_)(_|[_)%s | |(_](_.| \ %s" % (W, B, R, N)
+print "%s ◇◇◇◇◇◇◇◇◇' %s[《《《《《《《《《《《《《%s》》》》》》》》》》》》》》 %s" % (W, B, R, N)
 
 print " %s============================%s|%s======================%s " % (C, B, C, N)
 
 print " %sFB%s Group%s Hack %s12-09-2018%s (0:55)%s" % (W, B, R, C, Y, N)
 
-print " %sDevelop by: %sMohaMMed KhaLiD %s$$$%s Mr.NemrMedo%s" % (W, R, W, Y, N)
+print " %sDevelop by: %slovehacker %s$$$%s Asif.Javed%s" % (W, R, W, Y, N)
 print "                      %sAnd %sMaNiSh%s" % (W, R, N)
 
-print " %sCode: %sPython%s" % (W, C, N)
+print " %swhatsApp: %s03094161457%s" % (W, C, N)
 
-print " %sFB: %shttps://m.facebook.com/anon.nemrmedo%s" % (W, B, N)
+print " %sFB: %sChenal subscribe kar dain frends%s" % (W, B, N)
 
 print " %sThis purpose is for educational only%s" % (C, N)
 
